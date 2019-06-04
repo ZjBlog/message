@@ -1,2 +1,5 @@
 # message
-微信发送通知
+使用[Server酱](http://sc.ftqq.com/3.version)发送通知到微信上
+## 参数
+* URL  如:https://sc.ftqq.com/xxxx.send?text=
+* MESSAGE 如:服务器又挂了
