@@ -1,4 +1,4 @@
 #!/bin/sh -l
 echo '👍 ENTRYPOINT HAS STARTED—INSTALLING THE GEM BUNDLE'
-curl $URL+$MESSAGE
+curl $URL+'?text='+$MESSAG+'\&desp='+${GITHUB_SHA}
 echo '👍 GREAT SUCCESS!'
