@@ -3,4 +3,4 @@
 ## 参数
 * URL  如:https://sc.ftqq.com/xxxx.send
 * MESSAGE 如:服务器又挂了
-## 增加GITHUB_SHA
+* GITHUB_SHA 每次发消息都不一样
